@@ -1,3 +1,21 @@
+# Conversational Bot
+
+This conversational chatbot was created using the structure of the Botkit template.
+
+The purpose of creating this Virtual Bot Assistant is to help users with their everyday needs, without having to switch between different platforms.
+Although the capabilities of this solution will continue to grow, ultimately MyAwesomeBot will be able to do the following:
+
+-  Perform Sentiment Analysis
+-  Help Schedule Events
+-  Find Restaurants Nearby
+
+
+
+
+
+
+For details related to the template please see below:
+
 # Botkit template
 
 This project implements a Botkit + Webex Teams adapter bot, based on the [generator-botkit](https://www.npmjs.com/package/generator-botkit) Yoeman template, providing a few extra good-practice features, plus several interesting samples:
